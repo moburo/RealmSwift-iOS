@@ -11,6 +11,7 @@
 		BF6FCD7929585171009C1F13 /* DBViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF6FCD7829585171009C1F13 /* DBViewModel.swift */; };
 		BF6FCD7C295851F9009C1F13 /* Realm in Frameworks */ = {isa = PBXBuildFile; productRef = BF6FCD7B295851F9009C1F13 /* Realm */; };
 		BF6FCD7E295851F9009C1F13 /* RealmSwift in Frameworks */ = {isa = PBXBuildFile; productRef = BF6FCD7D295851F9009C1F13 /* RealmSwift */; };
+		BFCB83AE296C0B7D0055396F /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = BFCB83AD296C0B7D0055396F /* README.md */; };
 		BFE6DA2E2958508700D89C5C /* RealmSwift_iOSApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFE6DA2D2958508700D89C5C /* RealmSwift_iOSApp.swift */; };
 		BFE6DA302958508700D89C5C /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFE6DA2F2958508700D89C5C /* ContentView.swift */; };
 		BFE6DA322958508800D89C5C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BFE6DA312958508800D89C5C /* Assets.xcassets */; };
@@ -21,6 +22,7 @@
 /* Begin PBXFileReference section */
 		BF6FCD7629585164009C1F13 /* Card.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Card.swift; sourceTree = "<group>"; };
 		BF6FCD7829585171009C1F13 /* DBViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DBViewModel.swift; sourceTree = "<group>"; };
+		BFCB83AD296C0B7D0055396F /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		BFE6DA2A2958508700D89C5C /* RealmSwift-iOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "RealmSwift-iOS.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		BFE6DA2D2958508700D89C5C /* RealmSwift_iOSApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RealmSwift_iOSApp.swift; sourceTree = "<group>"; };
 		BFE6DA2F2958508700D89C5C /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -45,6 +47,7 @@
 		BFE6DA212958508700D89C5C = {
 			isa = PBXGroup;
 			children = (
+				BFCB83AD296C0B7D0055396F /* README.md */,
 				BFE6DA2C2958508700D89C5C /* RealmSwift-iOS */,
 				BFE6DA2B2958508700D89C5C /* Products */,
 			);
@@ -169,6 +172,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BFCB83AE296C0B7D0055396F /* README.md in Resources */,
 				BFE6DA352958508800D89C5C /* Preview Assets.xcassets in Resources */,
 				BFE6DA322958508800D89C5C /* Assets.xcassets in Resources */,
 			);
