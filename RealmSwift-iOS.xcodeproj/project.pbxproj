@@ -64,8 +64,8 @@
 		BFE6DA2C2958508700D89C5C /* RealmSwift-iOS */ = {
 			isa = PBXGroup;
 			children = (
-				BFE6DA3D295850BE00D89C5C /* Model */,
-				BFE6DA3C295850B200D89C5C /* ModelView */,
+				BFE6DA3D295850BE00D89C5C /* ModelView */,
+				BFE6DA3C295850B200D89C5C /* Model */,
 				BFE6DA3B295850A300D89C5C /* View */,
 				BFE6DA2D2958508700D89C5C /* RealmSwift_iOSApp.swift */,
 				BFE6DA312958508800D89C5C /* Assets.xcassets */,
@@ -91,20 +91,20 @@
 			path = View;
 			sourceTree = "<group>";
 		};
-		BFE6DA3C295850B200D89C5C /* ModelView */ = {
+		BFE6DA3C295850B200D89C5C /* Model */ = {
 			isa = PBXGroup;
 			children = (
 				BF6FCD7629585164009C1F13 /* Card.swift */,
 			);
-			path = ModelView;
+			path = Model;
 			sourceTree = "<group>";
 		};
-		BFE6DA3D295850BE00D89C5C /* Model */ = {
+		BFE6DA3D295850BE00D89C5C /* ModelView */ = {
 			isa = PBXGroup;
 			children = (
 				BF6FCD7829585171009C1F13 /* DBViewModel.swift */,
 			);
-			path = Model;
+			path = ModelView;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
